@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\bin\Debug\net9.0\41-Write your first C# method.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\bin\Debug\net9.0\41-Write your first C# method.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\bin\Debug\net9.0\41-Write your first C# method.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\bin\Debug\net9.0\41-Write your first C# method.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\bin\Debug\net9.0\41-Write your first C# method.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\41-Write your first C# method.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\41-Write your first C# method.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\41-Write your first C# method.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\41-Write your first C# method.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\41-Write your first C# method.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\refint\41-Write your first C# method.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\41-Write your first C# method.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\41-Write your first C# method.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\41-Write your first C# method\obj\Debug\net9.0\ref\41-Write your first C# method.dll
